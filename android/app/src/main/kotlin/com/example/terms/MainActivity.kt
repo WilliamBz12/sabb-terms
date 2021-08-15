@@ -1,4 +1,4 @@
-package com.example.newhome
+package com.example.terms
 
 import io.flutter.embedding.android.FlutterActivity
 

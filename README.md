@@ -1,4 +1,4 @@
-# newhome
+# terms
 
 A new Flutter project.
 
