@@ -46,6 +46,7 @@ class Home extends StatelessWidget {
               countent("7. Direitos do titular dos dados e retenção de dados", direitos ),
               countent("8. Sites e links de terceiros", sites  ),
               countent("9. Segurança da informação", seguranca),
+              countent("10. Coleta de informação e usuários", collectionAndDate),
             ],
           ),
         ),
