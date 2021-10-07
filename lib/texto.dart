@@ -1,3 +1,19 @@
+const String collectionAndDate = """
+
+Para uma melhor experiência, ao usar nosso Serviço, posso solicitar que você nos forneça certas informações de identificação pessoal. As informações que solicito serão retidas em seu dispositivo e não serão coletadas por mim de forma alguma.
+
+O aplicativo usa serviços de terceiros que podem coletar informações usadas para identificá-lo.
+
+Link para a política de privacidade de provedores de serviços terceirizados usados ​​pelo aplicativo
+
+\n-Serviços do Google Play
+\n-AdMob
+\n-Google Analytics para Firebase
+\n-Firebase Crashlytics
+\n-Hasura Cloud (https://sabb-app.hasura.app/ )
+
+""";
+
 const String seguranca= """
 O Sabb implementou salvaguardas técnicas e administrativas que acredita serem
 apropriadas para proteger a confidencialidade, integridade e disponibilidade de seus dados
